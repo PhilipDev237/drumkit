@@ -1,4 +1,5 @@
-Author: Philip Litvine Chang Bodih
+Author: Philip Litvine Chang Bodih MAKEBEH
+
 Website Link: https://philipdev237.github.io/drumkit/
 
 App description: 
